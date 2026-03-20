@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cxvyfwvj5mbx7"]
+
+[ext_resource type="Texture2D" uid="uid://c5p3rn2yp31s0" path="res://assets/throw.png" id="1_8r3iy"]
+
+[node name="Node2D" type="Node2D" unique_id=500369829]
+
+[node name="CastButton" type="Sprite2D" parent="." unique_id=1204994229]
+position = Vector2(960, 1001)
+texture = ExtResource("1_8r3iy")
